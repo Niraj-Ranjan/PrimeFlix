@@ -1,7 +1,7 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
+title: PrimeFlix | Free web series
 email: youremail@xyz.com
-description: Some text about your blog.
+description: Free web series.
 baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
 url: "https://www.rossener.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
