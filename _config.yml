@@ -7,8 +7,8 @@ url: "https://www.rossener.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
+username: PrimeFlix
+user_description: Free web series.
 disqus_username: disqus_username
 
 # Social Media
